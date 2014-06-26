@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<root>
+  <deviceproductdef>
+    <productname>KB800_KINESIS_FREESTYLE</productname>
+    <productid>0x058f</productid>
+  </deviceproductdef>
+
+  <item>
+    <name>Swap Left Option and Left Command</name>
+    <identifier>private.swap_left_alt_left_command</identifier>
+    <device_only>DeviceProduct::KB800_KINESIS_FREESTYLE</device_only>
+    <autogen>__KeyToKey__ KeyCode::COMMAND_L, KeyCode::OPTION_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::OPTION_L, KeyCode::COMMAND_L</autogen>
+  </item>
+
+</root>
