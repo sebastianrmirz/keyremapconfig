@@ -6,9 +6,7 @@ Custom settings XML file to swap Option Left and Command Left on the Kinesis Fre
 This is handy if you'd like to use the "PC" (Windows) version of this keyboard with a Mac.
 
 
-***
-***
-***
+
 
 !["PC version"](https://www.kinesis-ergo.com/shop/images/2008/Kinesis-Freestyle2-for-PC-91.jpg/ "PC Version")
 
